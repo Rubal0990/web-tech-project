@@ -1,11 +1,11 @@
 # Web-tech-project
 
-This is a Todo List web app. This app has ability for user login and add/delete todos. It helps managing todos and events much like a notelog.
+This is a *Todo List* web app. This app has ability for user login and add/delete todos. It helps managing todos and events much like a notelog.
 
 https://notelog-web-app.herokuapp.com/
 
 ## Getting Started
-Setup project environment with virtualenv and pip.
+Setup project environment with [virtualenv](https://virtualenv.pypa.io/en/latest/) and [pip](https://pip.pypa.io/en/stable/).
 ```
 $ virtualenv project-env
 $ source project-env/bin/activate
