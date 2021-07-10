@@ -1,8 +1,6 @@
-# Web-tech-project
+# Web-technology Project
 
-This is a *Todo List* web app. This app has ability for user login and add/delete todos. It helps managing todos and events much like a notelog.
-
-https://notelog-web-app.herokuapp.com/
+This is a *Todo List* web app. This app has ability for user login and add/delete todos. It helps managing todos and events much like a [Notelog](https://notelog-web-app.herokuapp.com/).
 
 ## Getting Started
 Setup project environment with [virtualenv](https://virtualenv.pypa.io/en/latest/) and [pip](https://pip.pypa.io/en/stable/).
